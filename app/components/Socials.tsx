@@ -46,7 +46,7 @@ const SocialsPage: React.FC = () => {
       </a>
 
       <a
-        href="www.linkedin.com/in/nathnael-wondisha-67b048227"
+        href="https://www.linkedin.com/in/filippo-de-silva-0982a7342/"
         target="_blank"
         rel="noopener noreferrer"
         className="flex scale-90 sm:scale-100 backdrop-blur-md items-center border border-blue-300/50 p-2 sm:p-2.5 hover:text-blue-500 hover:border-blue-500 relative group justify-center rounded-full transition-colors duration-200 overflow-hidden"
